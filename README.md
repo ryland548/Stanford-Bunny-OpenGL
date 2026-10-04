@@ -1,4 +1,4 @@
 # Stanford-Bunny-OpenGL
-Rendering a stanford bunny in OpenGL with normals and 3d rotation. Uses OpenGL 4.1 core
+Rendering a stanford bunny in OpenGL with normals and 3d rotation. Uses OpenGL 4.1 core, glad, glfw 
 
 <img src="https://github.com/ryland548/Stanford-Bunny-OpenGL/blob/main/screenshot.png"/>
